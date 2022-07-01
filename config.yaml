@@ -1,4 +1,4 @@
-baseURL = 'http://hugo.supportadvocate.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+baseURL: 'http://hugo.supportadvocate.com/'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: "ananke"
