@@ -2,4 +2,4 @@ baseURL: 'http://hugo.supportadvocate.com/'
 languageCode: 'en-us'
 title: 'My New Hugo Site'
 
-theme: "hugo_theme_adam_eve"
+theme: "ananke"
